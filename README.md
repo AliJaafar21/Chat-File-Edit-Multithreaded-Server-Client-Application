@@ -4,8 +4,8 @@
 A multithreaded java server that allows clients to collaborate on editing files and chat with each other.
 
 ## Technologies
-Server & Client were created using __Java Sockets__.  
-GUI was built using __Java Swing__.
+* Server & Client were created using __Java Sockets__.  
+* GUI was built using __Java Swing__.
 
 ## How To Use
 1. Run [serverWindow.java](src/serverWindow.java) to create the server window.
