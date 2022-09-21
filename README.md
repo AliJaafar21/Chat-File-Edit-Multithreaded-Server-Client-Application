@@ -1,10 +1,10 @@
-# Chat-File-Edit-Multithreaded-Server-Client-Application
+# Chat & File Edit Multithreaded Client-Server Application
 
 ## About
-A multithreaded java server that allows clients to collaborate on editing files and chat with each other.
+A multithreaded java server that allows clients to collaborate on editing files and to chat with each other.
 
 ## Technologies
-* Server & Client were created using __Java Sockets__.  
+* Server & Client were implemented using __Java Sockets__.  
 * GUI was built using __Java Swing__.
 
 ## How To Use
