@@ -1,4 +1,4 @@
-.classpath
-.project
 bin
+.project
+.classpath
 fileDB.sqlite
